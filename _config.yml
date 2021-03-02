@@ -98,7 +98,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A data analyst with in-depth knowledge of Data Tech."
   location         : "Toronto, ON Canada"
-  email            : "jabinchoi1026@gmail.com"
+  email            : # "jabinchoi1026@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -118,6 +118,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/jabin__c/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jasonchoidba/"      
 
 # Site Footer
 footer:
