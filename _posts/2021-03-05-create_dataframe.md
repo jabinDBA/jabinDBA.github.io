@@ -1,3 +1,14 @@
+---
+title: "Create a DataFrame"
+
+categories:
+  - Python
+tags:
+  - Python
+  - Pandas
+  - Data Frame
+---
+
 # What is DataFrame?
 
 Dataframe is a 2-dimensional labeled data structure with columns
