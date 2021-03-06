@@ -97,7 +97,8 @@ df.to_csv('people.csv')
 
 The file created looks like the following :
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/79891496/110217977-2582a080-7e85-11eb-8f49-087db69de091.png)
+
 
 How can we remove the first column?
 
