@@ -13,6 +13,6 @@ main:
   - title: "Home"
   url: https://jabindba.github.io/
   - title: "Categories"
-  url: https://jabindba.github.io/categories
-  - title: "Tags
-  url: https://jabindba.github.io/tags
+  url: /categories/
+  - title: "Tags"
+  url: /tags/
