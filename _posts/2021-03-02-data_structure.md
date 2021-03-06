@@ -1,3 +1,14 @@
+---
+title: "Data Structure"
+
+categories:
+  - Python
+tags:
+  - Python
+  - Pandas
+  - Data Structure
+---
+
 # What is Pandas?
 
 - An open source Python package
