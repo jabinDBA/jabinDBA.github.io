@@ -119,7 +119,7 @@ df.to_csv('people.csv', index=False)
 
 Result : 
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/79891496/110217997-3fbc7e80-7e85-11eb-8fb7-45fb891ffab8.png)
 
 ## How to replace None value to something else?
 
@@ -199,7 +199,7 @@ df.to_csv('employees.csv', index=False, na_rep='-')
 
 Result : 
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/79891496/110218000-51058b00-7e85-11eb-8bc7-7b42d9002530.png)
 
 
 ```python
