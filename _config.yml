@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Jabin Choi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/Me.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A data analyst with in-depth knowledge of Data Tech."
   location         : "Toronto, ON Canada"
   email            : # "jabinchoi1026@gmail.com"
