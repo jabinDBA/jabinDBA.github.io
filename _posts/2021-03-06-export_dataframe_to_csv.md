@@ -1,3 +1,14 @@
+---
+title: "Export DataFrame to a csv file"
+
+categories:
+  - Python
+tags:
+  - Python
+  - Pandas
+  - Export DataFrame to csv
+---
+
 # How to export DataFrame to a csv file in Pandas?
 
 - Use __pandas.DataFrame.to_csv()__ method.
