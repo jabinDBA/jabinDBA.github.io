@@ -1,5 +1,6 @@
 ---
 title: "Export DataFrame to a csv file"
+layout: single
 
 categories:
   - Python
