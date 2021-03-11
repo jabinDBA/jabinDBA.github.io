@@ -1,3 +1,16 @@
+---
+title: "Indexing and Selecting data"
+layout: single
+
+categories:
+  - Python
+tags:
+  - Python
+  - Pandas
+  - Indexing and Selecting data
+---
+
+
 # Indexing and Selecting data
 
 ## Select Row
