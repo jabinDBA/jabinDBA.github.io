@@ -1,5 +1,6 @@
 ---
 title: "Indexing and Selecting data"
+layout: single
 
 categories:
   - Python
