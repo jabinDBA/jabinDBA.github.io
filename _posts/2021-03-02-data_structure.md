@@ -1,5 +1,6 @@
 ---
 title: "Data Structure"
+layout: single
 
 categories:
   - Python
