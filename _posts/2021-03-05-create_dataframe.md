@@ -1,5 +1,6 @@
 ---
 title: "Create a DataFrame"
+layout: single
 
 categories:
   - Python
