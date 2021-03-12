@@ -219,6 +219,7 @@ timezone: Canada/Eastern # https://en.wikipedia.org/wiki/List_of_tz_database_tim
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
