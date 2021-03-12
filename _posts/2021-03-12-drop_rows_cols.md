@@ -1,3 +1,16 @@
+---
+title: "Remove rows or columns"
+layout: single
+
+categories:
+  - Python
+tags:
+  - Python
+  - Pandas
+  - Drop data
+---
+
+
 # Remove rows or columns
 
 We are going to drop specified labels from rows or columns in this chapter.
