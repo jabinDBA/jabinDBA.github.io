@@ -1,3 +1,15 @@
+---
+title: "Adding new column to existing DataFrame"
+layout: single
+
+categories:
+  - Python
+tags:
+  - Python
+  - Pandas
+  - Add new columns
+---
+
 # Adding new column to existing DataFrame
 
 ## By declaring a new list as a column
