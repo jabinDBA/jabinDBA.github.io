@@ -1,3 +1,15 @@
+---
+title: "Grouping Data"
+layout: single
+
+categories:
+  - Python
+tags:
+  - Python
+  - Pandas
+  - Group by
+---
+
 # Group by
 
 We are going to group data and compute operations on these groups such as counting the number of rows in this chapter.
