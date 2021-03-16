@@ -1,3 +1,15 @@
+---
+title: "Dropping duplicates"
+layout: single
+
+categories:
+  - Python
+tags:
+  - Python
+  - Pandas
+  - Drop duplicates
+---
+
 # Remove Duplicate
 
 ## Should we remove duplicates from a dataset?
