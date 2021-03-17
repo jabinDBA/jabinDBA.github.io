@@ -1,3 +1,15 @@
+---
+title: "Handling Missing Values"
+layout: single
+
+categories:
+  - Python
+tags:
+  - Python
+  - Pandas
+  - Fill Missing Values
+---
+
 # Handling Missing Values
 
 - Python libraries represent missing numbers as nan which is short for "not a number".
